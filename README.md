@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Riley McCullough
-- 🌱 I’m currently learning back end coding
-- 💞️ I’m looking to collaborate on learning to code
+- 🌱 I’m currently focused on back end coding
+
 - 📫 How to reach me Rileybmccullough@gmail.com
 
 <!---
